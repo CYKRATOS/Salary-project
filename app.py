@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
-import shap
+# import shap
 import json
 from PIL import Image
 from streamlit_lottie import st_lottie
